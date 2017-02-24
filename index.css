@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    background-image: url(images/1.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+h1 {
+	font-family: 'Bree Serif', serif;
+	color: white;
+}
+
+
+.card-content {
+	color: white;
+	font-family: 'Bree Serif', serif;
+}
+
+.white-text{
+	font-family: 'Bree Serif', serif;
+}
+
+footer.page-footer{
+	background-color: #021B38;
+}
